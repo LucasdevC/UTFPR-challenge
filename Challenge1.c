@@ -1,4 +1,4 @@
-/*
+//Ex1
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -11,8 +11,7 @@ int main(){
     printf("Valor:%.2f\n",conta);
     return 0;
 }
-*/
-
+//Ex2
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
@@ -33,8 +32,7 @@ int main(){
     printf("Valor:%.2f\n",_4a);
     return 0;
 }
-
-/*
+//Ex3
 #include <stdio.h>
 #include <stdlib.h>
 #define altura 173
@@ -45,6 +43,6 @@ int main(){
 
     return 0;
   } 
-*/
+
 
     
