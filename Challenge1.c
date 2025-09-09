@@ -1,3 +1,13 @@
+/**
+ * @file cc.c
+ * @author Lucas Mathias Belini (https://github.com/LucasdevC?tab=repositories)
+ * @brief 
+ * @version 0.1
+ * @date 2025-09-08
+ * 
+ * @copyright Copyright (c) 2025
+ * 
+ */
 //Ex1
 #include <stdio.h>
 #include <stdlib.h>
