@@ -50,7 +50,7 @@ int main(){
     float peso = 72.7;
     float calculo = peso*altura;
     printf("Peso ideal:%.2f",calculo);
-
+    
     return 0;
   } 
 
